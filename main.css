@@ -1,0 +1,12 @@
+#canvas {
+  border-style: outset;
+  background-color: #fcfce2;
+}
+
+img {
+  height: 26px;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
